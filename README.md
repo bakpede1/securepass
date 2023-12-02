@@ -29,7 +29,7 @@ Secure Pass is a straightforward password management application built using Pyt
    - Add new password entries, edit existing ones, and save or export your data.
 
 ## Demo 
-![Secure Pass Demo](/secure_pass.gif)
+![Secure Pass Demo](secure pass.gif)
 
 ## Dependencies
 
