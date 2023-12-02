@@ -28,6 +28,9 @@ Secure Pass is a straightforward password management application built using Pyt
    - Start the application and use the buttons to navigate and perform actions.
    - Add new password entries, edit existing ones, and save or export your data.
 
+## Demo 
+![Secure Pass Demo](secure_pass.gif)
+
 ## Dependencies
 
 - Tkinter: Included in most Python installations.
