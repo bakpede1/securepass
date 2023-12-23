@@ -21,7 +21,7 @@ Secure Pass is a straightforward password management application built using Pyt
 
 2. **Run the Application:**
    ```bash
-   python secure_pass.py
+   python test.py
    ```
 
 3. **Usage:**
