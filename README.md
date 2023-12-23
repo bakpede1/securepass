@@ -15,8 +15,8 @@ Secure Pass is a straightforward password management application built using Pyt
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/secure-pass.git
-   cd secure-pass
+   git clone https://github.com/bakpede1/securepass.git
+   cd securepass
    ```
 
 2. **Run the Application:**
